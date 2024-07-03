@@ -1,8 +1,7 @@
 # Automated Betting Data Aggregator and Web Application
 Automated scraping and processing of betting data locally hosted
 
-# Running the program
-Installation of python and all of the requirements in the requirements.txt  
+# Running the program  
 A single run of the command python main.py
 
 
