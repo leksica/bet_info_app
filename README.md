@@ -2,8 +2,8 @@
 Automated scraping and processing of betting data locally hosted
 
 # Running the program
-Installation of python and all of the requirements in the requirements.txt
-A single run of the command main.py
+Installation of python and all of the requirements in the requirements.txt  
+A single run of the command python main.py
 
 
 # Example usage of the main page "http://127.0.0.1:5000/"
